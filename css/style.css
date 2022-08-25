@@ -91,7 +91,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
+    background: url("../img/texture-paper.png");
     background-size: 280px 280px;
 }
 
@@ -1192,7 +1192,6 @@ h4 {
     .card-portfolio {
         margin-top: 20px;
         margin-bottom: 20px;
-        border-radius: 20px;
     }
     .link-social-footer {
         display: flex;
